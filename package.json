@@ -1,0 +1,17 @@
+{
+  "name": "postcss-background-path",
+  "version": "1.0.0",
+  "description": "A tool to solve the problem that local image is not allowed to use in background-image attribute in wechat mp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "wechat",
+    "mp",
+    "background"
+  ],
+  "author": "Wiihame",
+  "license": "MIT"
+}
